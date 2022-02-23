@@ -12,6 +12,6 @@ D-500 AKTIF KISIM KURUTMA,,Corporate,http://example.com/employee/profile,CEO off
 D-555 VAKUM ALMA VE YAG BASMA,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6076,O-6074,
 SON IŞLEMLER,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6077,O-6073,
 D550 AKTIF KISIM INDIRME VE KURU SIKIM,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6078,O-6077,
-D560 AKSESUAR MONTAJ,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6079,O-60777,
+D560 AKSESUAR MONTAJ,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6079,O-6077,
 D565 ELEKTRIK TESISAT MONTAJ,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6080,O-6077,
 D580 ROTUS BOYA,,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,OPERATION,O-6081,O-6077
